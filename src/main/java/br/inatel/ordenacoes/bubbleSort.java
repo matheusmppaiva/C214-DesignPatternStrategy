@@ -19,7 +19,4 @@ public class bubbleSort implements Ordena {
             }
         }
     }
-
-
-
 }
